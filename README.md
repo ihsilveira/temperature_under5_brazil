@@ -1,2 +1,2 @@
-# temperature_under5_brazil
-Code: Effects of ambient temperature on under-five mortality: a nationwide space time-stratified case-crossover study in Brazil
+## Overview
+Repository containing the code for the main analyses presented in the article “Effects of Ambient Temperature on Under‑Five Mortality: A Nationwide Space‑Time‑Stratified Case‑Crossover Study in Brazil.”
